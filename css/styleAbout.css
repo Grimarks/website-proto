@@ -1,0 +1,28 @@
+
+body{
+    background-color: lightblue;
+}
+
+.about{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: lightyellow;
+    padding: 9px;
+    margin: 9px;
+    overflow: hidden;
+}
+.navbar a{
+    color: black;
+    text-decoration: solid;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: whitesmoke;
+}
+.navbar li{
+    float: left;
+}

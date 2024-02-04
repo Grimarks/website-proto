@@ -1,0 +1,90 @@
+
+body{
+    background-color: lightblue;
+}
+.judul{
+    padding: 9px;
+    margin: 9px;
+    background-color: lightyellow;
+    text-align: center;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: lightyellow;
+    padding: 9px;
+    margin: 9px;
+    overflow: hidden;
+}
+.navbar a{
+    color: black;
+    text-decoration: solid;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: whitesmoke;
+}
+.navbar li{
+    float: left;
+}
+
+.content{
+    background-color:lightyellow ;
+    padding: 9px;
+    margin: 9px;
+    overflow: hidden;
+    
+  }
+  .content a:hover{
+      background-color: whitesmoke;
+  }
+  
+  .link {
+      text-decoration: none;
+      color: black;
+  }
+  
+  .content li{
+      list-style-type: none;
+      float: left;
+      text-align: center;
+      padding: 20px;
+      margin-right: 10px;
+      margin-left: 10px;
+      font-size: large;
+      text-decoration: none;
+  }
+
+  .content h2{
+    text-align: left;
+    font-family: Arial, sans-serif;
+  }
+
+  .footer{
+    color: black;
+  }
+  
+  .footer2{
+    text-align: right;
+  }
+  .custom-shape-divider-bottom-1706555085 {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1706555085 svg {
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 48px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1706555085 .shape-fill {
+    fill: lightyellow;
+}

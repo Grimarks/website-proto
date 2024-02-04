@@ -1,0 +1,63 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: lightyellow;
+    padding: 9px;
+    margin: 9px;
+    overflow: hidden;
+}
+.navbar a{
+    color: black;
+    text-decoration: solid;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: whitesmoke;
+}
+.navbar li{
+    float: left;
+}
+
+.kontak ul{
+    list-style-type: none;
+    background-color: lightyellow;
+    padding: 9px;
+    margin: 9px;
+}
+.kontak a{
+    color: black;
+}
+
+.online{
+    background-color:lightyellow ;
+    padding: 9px;
+    margin: 9px;
+    overflow: hidden;
+    
+  }
+  .online a:hover{
+      background-color: whitesmoke;
+  }
+  
+  .link {
+      text-decoration: none;
+      color: black;
+  }
+  
+  .online li{
+      list-style-type: none;
+      float: left;
+      text-align: center;
+      padding: 20px;
+      margin-right: 10px;
+      margin-left: 10px;
+      font-size: large;
+      text-decoration: none;
+  }
